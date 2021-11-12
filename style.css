@@ -1,0 +1,78 @@
+/*
+Theme Name: kantin S15
+Theme URI: http://kantins15.com/
+Description:
+Author:
+Author URI: http://kantins15.com/
+Version: 1.0
+Last edit: 1:16 PM 03 Nopember 2015
+*/
+
+.grid-col .blog-entry {
+  min-height: 300px;
+}
+
+.post-type-archive-wpdmpro .grid-col .blog-entry {
+  min-height: 500px;
+}
+
+.carousel-indicators li {
+  border: 1px solid #FFB300;
+}
+
+.carousel-indicators .active {
+  background-color: #FFB300;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background-image: none;
+  opacity: 0.3;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.sm-link {
+  border: 1px solid;
+  border-radius: 40px;
+  display: inline-block;
+  font-size: 30px;
+  height: 65px;
+  padding: 18px;
+  width: 65px;
+}
+
+a.sm-link:focus, a.sm-link:hover {
+  color: #B60A13;
+}
+
+.blog-entry img.attachment-image {
+  border: 5px solid #fff;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+  height: auto;
+  width: 150px;
+  margin-bottom: 0;
+}
+
+#attachment-container a {
+  display: inline-block;
+  margin: 10px;
+}
+
+#attachment-container {
+  text-align: center;
+}
+
+.hnav.nav-bottom {
+  margin-top: 20px;
+}
+
+.hnav.nav-bottom.fixed {
+  top: 20px;
+}
+
+.navbar-btn-group img.logo-r {
+  position: relative;
+  top: -20px;
+}
